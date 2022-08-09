@@ -1,3 +1,3 @@
 # wordpress
 [lala](https://martkode.wordpress.com/)
-[Kodesco](www.kodesco.be)
+[Kodesco](https://www.kodesco.be)
